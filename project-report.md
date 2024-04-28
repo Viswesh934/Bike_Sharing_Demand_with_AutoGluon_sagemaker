@@ -34,11 +34,13 @@ I should have added heatmaps and scatter plots. I would have optimized the hyper
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
 
-![model_train_score.png](img/model_train_score.png)
+![image](https://github.com/Viswesh934/Bike_Sharing_Demand_with_AutoGluon_sagemaker/assets/98519767/b9ba5b5c-a14f-4c50-b785-c6c66cd4ce57)
+
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
-![model_test_score.png](img/model_test_score.png)
+![model_test_score](https://github.com/Viswesh934/Bike_Sharing_Demand_with_AutoGluon_sagemaker/assets/98519767/39e31824-b951-4ffe-85ac-f574b64e7f9f)
+
 
 ## Summary
 In this project, I successfully applied the concepts covered in this unit of the course to develop a machine learning regression model using the AutoGluon framework. Leveraging the skills I acquired, I constructed a robust model that yielded promising results, as evidenced by a commendable Kaggle score. This hands-on experience not only solidified my understanding of machine learning techniques but also provided invaluable insights into real-world application scenarios. Overall, I thoroughly enjoyed working on this project and am pleased with the knowledge and achievements gained along the way.
